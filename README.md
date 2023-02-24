@@ -1,15 +1,16 @@
 Free C++ course outline
------------------------
+=======================
+
 
 Hello world
-===========
+----------
  - helloWorld.cpp
  - Introduction on how to write a simple program that outputs the string “hello
 world” to the screen.
 
 
 Selection
-=========
+---------
  - if and else
  - if and else and cin
  - ifAndElseWCin.cpp
@@ -19,7 +20,7 @@ Selection
 
 
 Variable Types
-==============
+--------------
  - simple types
  - int
  - float
@@ -34,17 +35,17 @@ Variable Types
 
 
 Operators
-=========
+---------
 
 Loops
-=====
+-----
  - for
  - while
  - do while
 
 
 Pointer
-=======
+-------
  - ptr to int with function
  - ptr to float with function
  - ptr to char with function, function to change lowCase to UpCase
@@ -53,7 +54,7 @@ Pointer
 
 
 Simple objects
-==============
+--------------
  - Circle
  - circle.cpp
  - Square
@@ -64,7 +65,7 @@ Simple objects
 
 
 Bike, instances of several types of bikes
-=========================================
+-----------------------------------------
  - Classes constructors
  - Classes Destructor
  - /u*Classes simple inthertiance
