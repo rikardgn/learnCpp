@@ -1,12 +1,15 @@
-#H1 Free C++ course outline
- 
-#H2 Hello world
+Free C++ course outline
+-----------------------
+
+Hello world
+===========
  - helloWorld.cpp
  - Introduction on how to write a simple program that outputs the string “hello
 world” to the screen.
 
 
-#H2 Selection
+Selection
+=========
  - if and else
  - if and else and cin
  - ifAndElseWCin.cpp
@@ -15,7 +18,8 @@ world” to the screen.
  - if and else and strstream
 
 
-#H2 Variable Types
+Variable Types
+==============
  - simple types
  - int
  - float
@@ -29,15 +33,18 @@ world” to the screen.
  - strings/charseq
 
 
-#H2 Operators
+Operators
+=========
 
-#H2 Loops
+Loops
+=====
  - for
  - while
  - do while
 
 
-#H2 Pointers
+Pointer
+=======
  - ptr to int with function
  - ptr to float with function
  - ptr to char with function, function to change lowCase to UpCase
@@ -45,7 +52,8 @@ world” to the screen.
  - ptr to charArr that converts all chars from lowCase to UpCase
 
 
-#H2 Simple objects
+Simple objects
+==============
  - Circle
  - circle.cpp
  - Square
@@ -55,7 +63,8 @@ world” to the screen.
  - Cone
 
 
-#H2 Bike, instances of several types of bikes
+Bike, instances of several types of bikes
+=========================================
  - Classes constructors
  - Classes Destructor
  - /u*Classes simple inthertiance
@@ -68,6 +77,7 @@ world” to the screen.
  - Simple system programming in Linux?
 
 
-#H2 Threads?
+Threads?
+========
  -  Using commandline argument argc. Argv for example to tell a cpp program how many units of
 memeory to allocate for a vector containning floats for examples.
