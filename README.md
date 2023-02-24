@@ -1,9 +1,10 @@
 #H1 Free C++ course outline
  
 #H2 Hello world
-helloWorld.cpp
-Introduction on how to write a simple program that outputs the string “hello
+ - helloWorld.cpp
+ - Introduction on how to write a simple program that outputs the string “hello
 world” to the screen.
+
 
 #H2 Selection
  - if and else
@@ -12,6 +13,7 @@ world” to the screen.
  - Shows how to use if and else clauses in cpp. The input by the user is obtained
  - using the cin method.
  - if and else and strstream
+
 
 #H2 Variable Types
  - simple types
@@ -26,6 +28,7 @@ world” to the screen.
  - arrays of structs
  - strings/charseq
 
+
 #H2 Operators
 
 #H2 Loops
@@ -33,12 +36,14 @@ world” to the screen.
  - while
  - do while
 
+
 #H2 Pointers
  - ptr to int with function
  - ptr to float with function
  - ptr to char with function, function to change lowCase to UpCase
  - ptr to struct with function
  - ptr to charArr that converts all chars from lowCase to UpCase
+
 
 #H2 Simple objects
  - Circle
@@ -48,6 +53,7 @@ world” to the screen.
  - Romb
  - Triangle
  - Cone
+
 
 #H2 Bike, instances of several types of bikes
  - Classes constructors
@@ -60,6 +66,7 @@ world” to the screen.
  - Possibly templates?
  - File i/O
  - Simple system programming in Linux?
+
 
 #H2 Threads?
  -  Using commandline argument argc. Argv for example to tell a cpp program how many units of
