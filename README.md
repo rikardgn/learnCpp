@@ -1,4 +1,6 @@
-Free C++ course outline
+
+<!-- Free C++ course outline -->
+richards version
 =======================
 
 
