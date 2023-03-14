@@ -12,8 +12,9 @@ world” to the screen.
 Selection
 ---------
  - ifAndElseWCin.cpp
- - Shows how to use if and else clauses in cpp. The input by the user is obtained 			using the cin method.
- - if and else and strstream
+ - Shows how to use if and else clauses in cpp. The input by the user is obtained using the cin method.
+ - ifAndElseWStringStream.cpp
+ - Shows how to use if and else clauses in cpp. The input by the user is obtained using the cin method. Stringstream is used to separate data and user input.
 
 
 Variable Types
