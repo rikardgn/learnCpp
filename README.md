@@ -5,7 +5,7 @@ Free C++ course outline
 Hello world
 ----------
 - helloWorld.cpp
- Introduction on how to write a simple program that outputs the string “hello
+- Introduction on how to write a simple program that outputs the string “hello
 world” to the screen.
 
 
