@@ -11,11 +11,8 @@ world” to the screen.
 
 Selection
 ---------
- - if and else
- - if and else and cin
  - ifAndElseWCin.cpp
- - Shows how to use if and else clauses in cpp. The input by the user is obtained
- - using the cin method.
+ - Shows how to use if and else clauses in cpp. The input by the user is obtained 			using the cin method.
  - if and else and strstream
 
 
