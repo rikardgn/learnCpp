@@ -26,6 +26,9 @@ Variable Types
 - arrEx.cpp
 - Show to declare simple arrays in C++. The program also shows to make simple
   calculations using arrays.
+- vectorEx.cpp
+- Shows how to declare simple vectors in C++. It also shows how to use simple 
+		vectors to make calucations.
 
 Operators
 ---------
