@@ -19,18 +19,10 @@ Selection
 
 Variable Types
 --------------
- - simple types
- - int
- - float
- - char
- - compound types
- - arrays
- - vectors
- - structs
- - simple structs
- - arrays of structs
- - strings/charseq
-
+-intEx.cpp
+- Shows how to use int variables in a program that makes simple calculations
+- floatEx.cpp
+- Shows how to use float variables in a program that makes simple calculations.
 
 Operators
 ---------
