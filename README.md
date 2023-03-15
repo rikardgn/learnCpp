@@ -18,8 +18,8 @@ Selection
 
 
 Variable Types
---------------
--intEx.cpp
+-------------
+- intEx.cpp
 - Shows how to use int variables in a program that makes simple calculations
 - floatEx.cpp
 - Shows how to use float variables in a program that makes simple calculations.
