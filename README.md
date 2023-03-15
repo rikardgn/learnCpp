@@ -28,7 +28,9 @@ Variable Types
   calculations using arrays.
 - vectorEx.cpp
 - Shows how to declare simple vectors in C++. It also shows how to use simple 
-		vectors to make calucations.
+  vectors to make calucations.
+- simpleStructEx.cpp
+- Example that shows to declare simple structs in C++.
 
 Operators
 ---------
