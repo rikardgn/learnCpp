@@ -31,6 +31,8 @@ Variable Types
   vectors to make calucations.
 - simpleStructEx.cpp
 - Example that shows to declare simple structs in C++.
+- structArrEx.cpp
+- Example that shows how to declare arrays of simple structs in c++.
 
 Operators
 ---------
