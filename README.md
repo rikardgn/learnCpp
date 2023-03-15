@@ -23,6 +23,9 @@ Variable Types
 - Shows how to use int variables in a program that makes simple calculations
 - floatEx.cpp
 - Shows how to use float variables in a program that makes simple calculations.
+- arrEx.cpp
+- Show to declare simple arrays in C++. The program also shows to make simple
+  calculations using arrays.
 
 Operators
 ---------
