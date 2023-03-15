@@ -34,12 +34,12 @@ Variable Types
 - structArrEx.cpp
 - Example that shows how to declare arrays of simple structs in c++.
 
-Operators
----------
-
 Loops
 -----
  - for
+forExample.cpp 
+		Shows to print five lines of “Hello World” using a for loop
+
  - while
  - do while
 
