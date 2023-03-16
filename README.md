@@ -39,7 +39,9 @@ Loops
 - forExample.cpp 
 - Shows to print five lines of “Hello World” using a for loop
 - whileEx.cpp
-- Shows how to use a while loop to wait for a user to enter a certain character. 
+- Shows how to use a while loop to wait for a user to enter a certain character.
+- doWhileEx.cpp
+- Shows how to use a do while loop to generate two random numbers in a vector.
 
 Pointer
 -------
