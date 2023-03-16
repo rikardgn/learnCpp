@@ -47,6 +47,8 @@ Pointer
 -------
 - intPtr.cpp
 - Program that shows how to use pointers with regards to integers.
+- floatPtrFunc.cpp
+- Show to use a float pointer and function to calcuate the area of circle
 
 Simple objects
 --------------
