@@ -49,6 +49,8 @@ Pointer
 - Program that shows how to use pointers with regards to integers.
 - floatPtrFunc.cpp
 - Show to use a float pointer and function to calcuate the area of circle
+- charPtrEx.cpp
+- Show how to use a char pointer and a function to change a character from lower to upperCase
 
 Simple objects
 --------------
