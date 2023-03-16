@@ -51,6 +51,8 @@ Pointer
 - Show to use a float pointer and function to calcuate the area of circle
 - charPtrEx.cpp
 - Show how to use a char pointer and a function to change a character from lower to upperCase
+- ptrToCharVector.cpp
+- Shows to use a function and a char pointer to convert the letters stored in char array from lowerCase to upperCase
 
 Simple objects
 --------------
