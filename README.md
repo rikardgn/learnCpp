@@ -45,12 +45,8 @@ Loops
 
 Pointer
 -------
- - ptr to int with function
- - ptr to float with function
- - ptr to char with function, function to change lowCase to UpCase
- - ptr to struct with function
- - ptr to charArr that converts all chars from lowCase to UpCase
-
+- intPtr.cpp
+- Program that shows how to use pointers with regards to integers.
 
 Simple objects
 --------------
