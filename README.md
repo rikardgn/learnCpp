@@ -56,30 +56,18 @@ Pointer
 
 Simple objects
 --------------
- - Circle
- - circle.cpp
- - Square
- - square.cpp
- - Romb
- - Triangle
- - Cone
+- circle.cpp
+- A program that represent a circle. Methods to make simple calculations upon a circle.
+- square.cpp
+- A program that represents a square. Methods to make simple calculations upon a square.
 
-
-Bike, instances of several types of bikes
+Simple multiple inheritance
 -----------------------------------------
- - Classes constructors
- - Classes Destructor
- - /u*Classes simple inthertiance
- - /u*Classes multiple inheritance
- - Class friendship
- - Classes polymorphism
- - Simple overloading
- - Possibly templates?
- - File i/O
- - Simple system programming in Linux?
+- bikeClassesMultipInherit.cpp
+-	A program that shows to accomplish simple multiple inheritance.
+	 The inheritance structure is as follows:
+	 a sub class of bike such as racing bike inherits the main classes bike and storeItem.
+	 The main class bike represent the basic properties of a bike. The subclass racing bikes
+	 adds properties that may be important to represent a racing bike such as top, The class
+	 storeItem represent an item sold in this example in sporting goods store such with 	properties such as article number, shelef and so on.
 
-
-Threads?
-========
- -  Using commandline argument argc. Argv for example to tell a cpp program how many units of
-memeory to allocate for a vector containning floats for examples.
