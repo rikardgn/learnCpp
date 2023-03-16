@@ -68,6 +68,6 @@ Simple multiple inheritance
 	 The inheritance structure is as follows:
 	 a sub class of bike such as racing bike inherits the main classes bike and storeItem.
 	 The main class bike represent the basic properties of a bike. The subclass racing bikes
-	 adds properties that may be important to represent a racing bike such as top, The class
-	 storeItem represent an item sold in this example in sporting goods store such with 	properties such as article number, shelef and so on.
+	 adds properties that may be important to represent a racing bike such as top speed. 
+	The class storeItem represent an item sold in this example in sporting goods store such with properties such as article number, shelf placement and so on.
 
