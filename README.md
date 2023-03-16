@@ -33,6 +33,8 @@ Variable Types
 - Example that shows to declare simple structs in C++.
 - structArrEx.cpp
 - Example that shows how to declare arrays of simple structs in c++.
+- simplStringEx.cpp
+- Simple example of how to use and declare strings in C++
 
 Loops
 -----
