@@ -8,33 +8,11 @@ Hello world
 - Introduction on how to write a simple program that outputs the string “hello
 world” to the screen.
 
-
-Selection
----------
- - ifAndElseWCin.cpp
- - Shows how to use if and else clauses in cpp. The input by the user is obtained using the cin method.
- - ifAndElseWStringStream.cpp
- - Shows how to use if and else clauses in cpp. The input by the user is obtained using the cin method. Stringstream is used to separate data and user input.
-
-
-Variable Types
--------------
-- intEx.cpp
-- Shows how to use int variables in a program that makes simple calculations
-- floatEx.cpp
-- Shows how to use float variables in a program that makes simple calculations.
-- arrEx.cpp
-- Show to declare simple arrays in C++. The program also shows to make simple
-  calculations using arrays.
-- vectorEx.cpp
-- Shows how to declare simple vectors in C++. It also shows how to use simple 
-  vectors to make calucations.
-- simpleStructEx.cpp
-- Example that shows to declare simple structs in C++.
-- structArrEx.cpp
-- Example that shows how to declare arrays of simple structs in c++.
-- simplStringEx.cpp
-- Simple example of how to use and declare strings in C++
+File i/O
+----------
+- randCopyMp3New.S
+- Shows to create a program that takes a selection of mp3 files thats located in one directory and creates a random smaller collection from that library in another directory
+- This is a debug build but the code is working, just some debug messages left.
 
 Loops
 -----
@@ -45,7 +23,7 @@ Loops
 - doWhileEx.cpp
 - Shows how to use a do while loop to generate two random numbers in a vector.
 
-Pointer
+Pointers
 -------
 - intPtr.cpp
 - Program that shows how to use pointers with regards to integers.
@@ -55,6 +33,13 @@ Pointer
 - Show how to use a char pointer and a function to change a character from lower to upperCase
 - ptrToCharVector.cpp
 - Shows to use a function and a char pointer to convert the letters stored in char array from lowerCase to upperCase
+
+Selection
+---------
+ - ifAndElseWCin.cpp
+ - Shows how to use if and else clauses in cpp. The input by the user is obtained using the cin method.
+ - ifAndElseWStringStream.cpp
+ - Shows how to use if and else clauses in cpp. The input by the user is obtained using the cin method. Stringstream is used to separate data and user input.
 
 Simple objects
 --------------
@@ -78,4 +63,23 @@ Sorting
 - bubbleSortEx.cpp
 - A program that lets the user enter 4 to 25 integers, The numbers are then sorted using the algorrithm called bobbleSort.
 - insetionSortEx.cpp
-- A program that lets the user enter 8 to 24 integers. The numbers are then sorted 
+- A program that lets the user enter 8 to 24 integers. The numbers are then sorted
+
+Variable Types
+-------------
+- intEx.cpp
+- Shows how to use int variables in a program that makes simple calculations
+- floatEx.cpp
+- Shows how to use float variables in a program that makes simple calculations.
+- arrEx.cpp
+- Show to declare simple arrays in C++. The program also shows to make simple
+  calculations using arrays.
+- vectorEx.cpp
+- Shows how to declare simple vectors in C++. It also shows how to use simple 
+  vectors to make calucations.
+- simpleStructEx.cpp
+- Example that shows to declare simple structs in C++.
+- structArrEx.cpp
+- Example that shows how to declare arrays of simple structs in c++.
+- simplStringEx.cpp
+- Simple example of how to use and declare strings in C++
