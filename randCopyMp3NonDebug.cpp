@@ -35,6 +35,10 @@ class mp3FileList{
     ~mp3FileList(){
 
     }
+    //Function to init class and call functions before copying Files
+    void initClass(){
+        
+    }
     long retNumFiles(void){
         return numFiles;
     }
