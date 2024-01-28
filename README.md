@@ -60,10 +60,13 @@ Simple multiple inheritance
 	
 Sorting
 -----------------------------------------
-- bubbleSortEx.cpp
-- A program that lets the user enter 4 to 25 integers, The numbers are then sorted using the algorrithm called bobbleSort.
-- insetionSortEx.cpp
-- A program that lets the user enter 8 to 24 integers. The numbers are then sorted
+- bubble sort
+- will be added soon
+- insetion sort
+- will be added sonon
+-  quick sort
+- will be added soon
+  
 
 Variable Types
 -------------
