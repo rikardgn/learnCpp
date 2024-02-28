@@ -62,7 +62,7 @@ Sorting
 -----------------------------------------
 - bubble sort
 - will be added soon
-- insetionSortExHithub.cpp
+- insetionSortExGitHub.cpp
 - Example of insertion sort algorithm, sorting alogrithm taken from another github repo, added some code of my own.
 -  quick sort
 - will be added soon
