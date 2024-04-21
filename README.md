@@ -10,7 +10,7 @@ world” to the screen.
 
 File i/O
 ----------
-- randCopyMp3New.S
+- randCopyMp3New.S, randCopyMp3Final.cpp
 - Shows how to create a program that takes a selection of mp3 files thats located in one directory and creates a random smaller collection from that library in another directory
 - This is a debug build but the code is working, just some debug messages left.
 
