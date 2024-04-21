@@ -12,7 +12,7 @@ File i/O
 ----------
 - randCopyMp3New.S, randCopyMp3Final.cpp
 - Shows how to create a program that takes a selection of mp3 files thats located in one directory and creates a random smaller collection from that library in another directory
-- This build is a debug build thats has seen alot revisions from the first debug build, randCopMp3Final.cpp is the last debug build,
+- This build is a debug build thats has seen alot revisions from the first debug build, randCopyMp3Final.cpp is the last debug build,
   randCopyMp3NewS.cpp was the starting point for the debug builds.
 
 Loops
