@@ -30,6 +30,7 @@ Mathematics and caluclations
 ----------------------------
 - normalDistRandomEx.cpp
 - Shows how to use random number generator fromnm newer c++ standard to generate normal distributions. The program lets you chose what seed to use to see what effect it has on the randomness of the numbers
+
 Pointers
 -------
 - intPtr.cpp
