@@ -16,6 +16,8 @@ File i/O
   randCopyMp3NewS.cpp was the starting point for the debug builds.
 - outpRandomNameListFinal.cpp
 - Program that outputs a random list of names to a textfile.
+- exInputFileCinGetline.cpp
+- Program that shows how to use the extraction operator ">>" and getLine to read the contents of a text file
 
 Loops
 -----
