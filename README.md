@@ -32,6 +32,9 @@ Mathematics and caluclations
 ----------------------------
 - normalDistRandomEx.cpp
 - Shows how to use random number generator fromnm newer c++ standard to generate normal distributions. The program lets you chose what seed to use to see what effect it has on the randomness of the numbers
+- exProbabilityRandDist.cpp
+- Shows how to use random number generator from newer c++ standard to gnerer probability based numbers using a bernoulli distribution. The program lets you choose what seed to use to see what effect it has on
+- the randomness of numbers. 
 
 Pointers
 -------
