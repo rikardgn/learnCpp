@@ -21,7 +21,9 @@ File i/O
 - exOffSetBinFile.cpp
 - Demonstrates how to use offset to change get position in binary file
 - Reads 4 characters at a few specified intervals specified using offset
-- 
+- exBinFileSeqReadWrite.cpp
+- Demonstrates how write and read data to a binary file in sequence
+- either one value at a time or entire array at once.
 
 Loops
 -----
@@ -68,7 +70,7 @@ Simple objects
 Simple multiple inheritance
 -----------------------------------------
 - bikeClassesMultipInherit.cpp
--	A program that shows to accomplish simple multiple inheritance.
+- A program that shows to accomplish simple multiple inheritance.
 	 The inheritance structure is as follows:
 	 a sub class of bike such as racing bike inherits the main classes bike and storeItem.
 	 The main class bike represent the basic properties of a bike. The subclass racing bikes
