@@ -19,7 +19,7 @@ File i/O
 - Program that shows how to use the extraction operator ">>" and getLine to read the contents of a text file
 - exOffSetBinFile.cpp
 - Demonstrates how to use offset to change get position in binary file
-  Reads 4 characters at a few specified intervals specified using offset
+  reads 4 characters at a few specified intervals specified using offset
 - exBinFileSeqReadWrite.cpp
 - Demonstrates how write and read data to a binary file in sequence
   either one value at a time or entire array at once.
