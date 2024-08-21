@@ -12,18 +12,18 @@ File i/O
 ----------
 - randCopyMp3New.S, randCopyMp3DebugLatest.cpp
 - Shows how to create a program that takes a selection of mp3 files thats located in one directory and creates a random smaller collection from that library in another directory
-- This build is a debug build thats has seen alot revisions from the first debug build, randCopyMp3DebugLatest.cpp is the lastest debug build,
+  This build is a debug build thats has seen alot revisions from the first debug build, randCopyMp3DebugLatest.cpp is the lastest debug build,
   randCopyMp3NewS.cpp was the starting point for the debug builds.
 - outpRandomNameListFinal.cpp
 - Program that outputs a random list of names to a textfile.
 - exInputFileCinGetline.cpp
 - Program that shows how to use the extraction operator ">>" and getLine to read the contents of a text file
-- exOffSetBinFile.cpp
+  exOffSetBinFile.cpp
 - Demonstrates how to use offset to change get position in binary file
-- Reads 4 characters at a few specified intervals specified using offset
+  Reads 4 characters at a few specified intervals specified using offset
 - exBinFileSeqReadWrite.cpp
 - Demonstrates how write and read data to a binary file in sequence
-- either one value at a time or entire array at once.
+  either one value at a time or entire array at once.
 
 Loops
 -----
