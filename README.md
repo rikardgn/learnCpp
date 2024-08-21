@@ -11,8 +11,7 @@ world” to the screen.
 File i/O
 ----------
 - randCopyMp3New.S, randCopyMp3DebugLatest.cpp
-- Shows how to create a program that takes a selection of mp3 files thats located in one directory and creates a random smaller collection from that library in another directory
-  This build is a debug build thats has seen alot revisions from the first debug build, randCopyMp3DebugLatest.cpp is the lastest debug build,
+- Shows how to create a program that takes a selection of mp3 files thats located in one directory and creates a random smaller collection from that library in  another directory. This build is a debug build thats has seen alot revisions since the first debug build, randCopyMp3DebugLatest.cpp is the lastest debug build,
   randCopyMp3NewS.cpp was the starting point for the debug builds.
 - outpRandomNameListFinal.cpp
 - Program that outputs a random list of names to a textfile.
