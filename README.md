@@ -84,7 +84,13 @@ Sorting
 - Example of insertion sort algorithm, sorting alogrithm taken from another github repo, added some code of my own.
 -  quick sort
 - will be added soon
-  
+
+Typecasting and type conversion
+--------------------------------
+- simpTypeConv.cpp
+- A simple c++ program that showt how to do implict type conversion
+  It also demonstrates what happens if you try to fit a large number into a smaller type
+  with implict type conversion.
 
 Variable Types
 -------------
