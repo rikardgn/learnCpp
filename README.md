@@ -8,6 +8,10 @@ Hello world
 - Introduction on how to write a simple program that outputs the string “hello
 world” to the screen.
 
+Graphics
+--------
+-More examples will be added in the future
+
 File i/O
 ----------
 - randCopyMp3New.S, randCopyMp3DebugLatest.cpp
