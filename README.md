@@ -45,8 +45,8 @@ Mathematics and caluclations
 - Shows how to use random number generator from newer c++ standard to gnerer probability based numbers using a bernoulli distribution. The program lets you choose what seed to use to see what effect it has on
 - the randomness of numbers.
 - calcCircle.cpp
-- A program that takes values of radius from a file, prints thea area, diametre and  circumference to the screen Finally the program writes the the results of the calculations to another file. 
-- This program uses sequential file i/o.
+- A program that takes values of radius from a file, prints thea area, diametre and  circumference to the screen Finally the program writes the the results of the calculations to another file.   
+This program uses sequential file i/o.
 
 Pointers
 -------
