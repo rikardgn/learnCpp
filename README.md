@@ -117,3 +117,8 @@ Variable Types
 - Example that shows how to declare arrays of simple structs in c++.
 - simplStringEx.cpp
 - Simple example of how to use and declare strings in C++
+
+C++ 20
+------
+- desInit20Ex.cpp
+- Example of how to use designated initalizers in c++ 20.
