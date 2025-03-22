@@ -118,7 +118,7 @@ Variable Types
 - simplStringEx.cpp
 - Simple example of how to use and declare strings in C++
 
-C++ 20
-------
+Examples of C++ 20 standard
+---------------------------
 - desInit20Ex.cpp
 - Example of how to use designated initalizers in c++ 20.
