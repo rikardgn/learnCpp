@@ -12,6 +12,7 @@ double mult_1_5(double x){
     a=x*1.5;
     return a;
 }
+
 int main(){
     double number=26.25;
     double retVal;
