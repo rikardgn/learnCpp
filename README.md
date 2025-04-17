@@ -59,6 +59,12 @@ Pointers
 - ptrToCharVector.cpp
 - Shows to use a function and a char pointer to convert the letters stored in char array from lowerCase to upperCase
 
+Parameter passing
+-----------------
+-There are three ways of parameter passing in C++ passing by value, passing by reference and passing by pointer.
+- passByVCal.cpp
+- An example that demonstrates how to use pass by value.
+
 Selection
 ---------
  - ifAndElseWCin.cpp
