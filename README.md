@@ -64,6 +64,8 @@ Parameter passing
 There are three ways of parameter passing in C++ passing by value, passing by reference and passing by pointer.
 - passByVal.cpp
 - An example that demonstrates how to use pass by value.
+- passByPointer.cpp
+- An example that demonstrates how to use passing by pointer
 
 Selection
 ---------
