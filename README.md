@@ -130,3 +130,5 @@ Examples of C++ 20 standard
 ---------------------------
 - desInit20Ex.cpp
 - Example of how to use designated initalizers in c++ 20.
+- conceptEx1.cpp
+- Example of how to use concepts in c++ 20. This example uses simple numerical computations to illustrate this concept.
