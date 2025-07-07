@@ -131,7 +131,7 @@ Variable Types
 Intermediate topics in alphabetic order
 ---------------------------------------
 
-Examples of C++ 20 standard
+C++ 20 standard
 ---------------------------
 - desInit20Ex.cpp
 - Example of how to use designated initalizers in c++ 20.
