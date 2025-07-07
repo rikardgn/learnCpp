@@ -1,12 +1,8 @@
 Free C++ course outline
 =======================
 
-
-Hello world
-----------
-- helloWorld.cpp
-- Introduction on how to write a simple program that outputs the string “hello
-world” to the screen.
+Basic topics in alphabeitc order
+--------------------------------
 
 Graphics
 --------
@@ -27,6 +23,12 @@ File i/O
 - exBinFileSeqReadWrite.cpp
 - Demonstrates how write and read data to a binary file in sequence
   either one value at a time or entire array at once.
+
+Hello world
+----------
+- helloWorld.cpp
+- Introduction on how to write a simple program that outputs the string “hello
+world” to the screen.
 
 Loops
 -----
@@ -126,9 +128,18 @@ Variable Types
 - simplStringEx.cpp
 - Simple example of how to use and declare strings in C++
 
+Intermediate topics in alphabetic order
+---------------------------------------
+
 Examples of C++ 20 standard
 ---------------------------
 - desInit20Ex.cpp
 - Example of how to use designated initalizers in c++ 20.
 - conceptEx1.cpp
 - Example of how to use concepts in c++ 20. This example uses simple numerical computations to illustrate this concept.
+
+Keywords
+--------
+- autoKeyWordEx.cpp
+- Example of how to traverse a vector using the keyword auto.
+
