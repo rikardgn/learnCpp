@@ -1,7 +1,7 @@
 Free C++ course outline
 =======================
 
-Basic topics in alphabeitc order
+Basic topics in alphabetic order
 --------------------------------
 
 Graphics
