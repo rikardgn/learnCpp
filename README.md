@@ -137,6 +137,8 @@ C++ 20 standard
 - Example of how to use designated initalizers in c++ 20.
 - conceptEx1.cpp
 - Example of how to use concepts in c++ 20. This example uses simple numerical computations to illustrate this concept.
+- conceptExCnvToDouble.cpp
+- Example of how to check if something is convertible to double using the keyword convertible_to
 
 Keywords
 --------
