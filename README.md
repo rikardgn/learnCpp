@@ -49,6 +49,8 @@ Mathematics and caluclations
 - calcCircle.cpp
 - A program that takes values of radius from a file, prints the area, diametre and circumference to the screen. 
 Finally the program writes the the results of the calculations to another file.  This program uses sequential file i/o.
+- primeNumObj.cpp
+- A program that demonstrares usage of fucntions and dynamic creation of objects. It also shows how to determine if a number is prime number or not.
 
 Pointers
 -------
