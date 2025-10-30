@@ -139,6 +139,8 @@ C++ 20 standard
 - Example of how to use concepts in c++ 20. This example uses simple numerical computations to illustrate this concept.
 - conceptExCnvToDouble.cpp
 - Example of how to check if something is convertible to double using the keyword convertible_to
+- exFuncSyntaxMultTempParam.cpp
+- Example of using functional syntax and multiple parameters with regards to concepts.
 
 Keywords
 --------
