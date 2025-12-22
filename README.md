@@ -144,6 +144,11 @@ C++ 20 standard
 - exFuncSyntaxMultTempParam.cpp
 - Example of using functional syntax and multiple parameters with regards to concepts.
 
+Exceptions maanagement
+----------------------
+- divByZeroLogicalException.cpp
+- Shows how to throw a logical exceoption when trying to divide by zero
+
 Keywords
 --------
 - autoKeyWordEx.cpp
