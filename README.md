@@ -39,7 +39,7 @@ Loops
 - doWhileEx.cpp
 - Shows how to use a do while loop to generate two random numbers in a vector.
 
-Mathematics and caluclations
+Mathematics and calculations
 ----------------------------
 - normalDistRandomEx.cpp
 - Shows how to use random number generator fromnm newer c++ standard to generate normal distributions. The program lets you chose what seed to use to see what effect it has on the randomness of the numbers
