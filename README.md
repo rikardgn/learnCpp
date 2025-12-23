@@ -146,8 +146,8 @@ C++ 20 standard
 
 Exceptions maanagement
 ----------------------
-- divByZeroLogicalException.cpp
-- Shows how to throw a logical exceoption when trying to divide by zero
+- mult5LargerThan3.cpp
+- Example of how to throw a invalid argument exception when trying to multiply 5 with smaller number than 4
 
 Keywords
 --------
