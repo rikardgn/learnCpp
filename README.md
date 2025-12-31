@@ -148,6 +148,9 @@ Exceptions maanagement
 ----------------------
 - mult5LargerThan3.cpp
 - Example of how to throw a invalid argument exception when trying to multiply 5 with smaller number than 4
+- exTerminateHandlerCloseFile.cpp
+- An example that of exceptions handling using a custom terminate handler that closes and removes a files. 
+  It flushes std::cout to make sure that error message is dispalyed before calling std::abort.
 
 Keywords
 --------
