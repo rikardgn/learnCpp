@@ -3,6 +3,9 @@ Free C++ course outline
 
 Basic topics in alphabetic order
 --------------------------------
+-Please not that all examples in this course are compiled using gcc and linux.
+-They may also be compilable in other platforms such as windows, macos etc with no or minor modifications.
+-Usually the compile syntax may be something like g++ fileName.cpp -o nameOfExcutable
 
 Graphics
 --------
