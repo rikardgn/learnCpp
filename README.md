@@ -4,8 +4,10 @@ Free C++ course outline
 Basic topics in alphabetic order
 --------------------------------
 Please not that all examples in this course are compiled using gcc and linux.
-They may also be compilable in other platforms such as windows, macos etc with no or minor modifications.
-Usually the compile syntax may be something like g++ fileName.cpp -o nameOfExcutable
+They may also be compilable in other platforms such as Windows, MacOs etc with no or minor modifications.
+Usually the compile syntax in Linux may be something like "g++ fileName.cpp -o nameOfExcutable", sometimes
+theres a need to add some flag to not that this code follows c++ standard 2017 or 2020.
+This can look something like this in Linux: "g++ fileName.cpp -std=c++20 -o nameOfExecutable"
 
 Graphics
 --------
