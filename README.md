@@ -106,7 +106,7 @@ Sorting
 - will be added soon
 - insetionSortExGitHub.cpp
 - Example of insertion sort algorithm, sorting alogrithm taken from another github repo, added some code of my own.
--  quick sort
+- quick sort
 - will be added soon
 
 Typecasting and type conversion
@@ -148,6 +148,11 @@ C++ 20 standard
 - Example of how to check if something is convertible to double using the keyword convertible_to
 - exFuncSyntaxMultTempParam.cpp
 - Example of using functional syntax and multiple parameters with regards to concepts.
+
+Constructors and Desctructors
+-----------------------------
+- exUsrCpyConstr.cpp
+- Example of a user can defined a copy constructor in C++. This class contains an array  of randomized integers. The copy constructor creates a new array and copies the numbers from the old class.
 
 Exceptions maanagement
 ----------------------
