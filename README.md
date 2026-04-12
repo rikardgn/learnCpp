@@ -162,6 +162,17 @@ Exceptions maanagement
 - An example that of exceptions handling using a custom terminate handler that closes and removes a files. 
   It flushes std::cout to make sure that error message is dispalyed before calling std::abort.
 
+Headers
+-------
+- vatCalc.h
+- Example of header file that contains function defintions for functions that caluclate different percentages of VAT depedent upon type of item
+- vatCalc.cpp
+- Example of .cpp file that contains function defintions for functions that caluclate diiffernt percentages of VAT dependent upon type of item
+- vatItemsBelow1000.cpp
+- .cpp file that uses the function defined in the files above to calculate VAT for different types of items that costs less than 1000USD.
+- vatItemsAbove1000.cpp
+- .cpp file that uses the function defined in the files above to calculate VAT for different types of items that costs less than 1000USD.
+
 Keywords
 --------
 - autoKeyWordEx.cpp
