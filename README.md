@@ -161,6 +161,8 @@ Exceptions maanagement
 - exTerminateHandlerCloseFile.cpp
 - An example that of exceptions handling using a custom terminate handler that closes and removes a files. 
   It flushes std::cout to make sure that error message is dispalyed before calling std::abort.
+- divFuncTryBlock.cpp
+- A function with that throws an logic error when dividing by zero
 
 Headers
 -------
